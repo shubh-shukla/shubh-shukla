@@ -1,6 +1,7 @@
 <a href="https://komarev.com/ghpvc/?username=shubh-shukla">
   <img align="right" src="https://komarev.com/ghpvc/?username=shubh-shukla&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
+<br>
 
 <!-- Intro  -->
 <p align="center"><a target="_blank" href="https://shubham-shukla.vercel.app"><img width="60%" alt="Hello, I'm Shubham" src="./assets/greet.png" /></a></p>
