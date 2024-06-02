@@ -8,7 +8,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Shubham+Shukla">「 Google Me 」</a>
     <br>
     「 I am a Full Stack Web/Mobile developer from <b>Uttarakhand, India</b> 🇮🇳 」
     <br>
