@@ -3,12 +3,7 @@
 </a>
 
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://shubham-shukla.vercel.app">Shubham Shukla</a></b>
-        </samp>
-</h3>
-
+<p align="center"><a target="_blank" href="https://shubham-shukla.vercel.app"><img width="80%" alt="Hello, I'm Shubham" src="./assets/greet.png" /></a></p>
 
 <p align="center"> 
   <samp>
@@ -44,9 +39,10 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
+
+ 💼 Software Engineer at [Metricstream](https://www.metricstream.com)
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ❤️ &emsp; I love writing JavaScript, and building fun experiments on type-level<br/><br/>
  📧 &emsp; Reach me anytime: shukla111shubh@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/shubh-shukla/shubh-shukla/issues)
 
@@ -72,6 +68,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3-black?style=for-the-badge&labelColor=black&logo=d3.js&logoColor=F9A03C)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
