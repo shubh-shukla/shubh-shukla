@@ -14,7 +14,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Shubham+Shukla">「 Google Me 」</a>
     <br>
-    「 I am a Full Stack Web/Mobile developer from <b>Uttarakhand, India</b> ![India](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png "India") 」
+    「 I am a Full Stack Web/Mobile developer from <b>Uttarakhand, India</b> ![India](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png") 」
     <br>
     <br>
   </samp>
