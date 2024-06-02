@@ -3,7 +3,7 @@
 </a>
 
 <!-- Intro  -->
-<p align="center"><a target="_blank" href="https://shubham-shukla.vercel.app"><img width="80%" alt="Hello, I'm Shubham" src="./assets/greet.png" /></a></p>
+<p align="center"><a target="_blank" href="https://shubham-shukla.vercel.app"><img width="60%" alt="Hello, I'm Shubham" src="./assets/greet.png" /></a></p>
 
 <p align="center"> 
   <samp>
@@ -40,9 +40,10 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
- 💼 Software Engineer at [Metricstream](https://www.metricstream.com)
+ 💼 &emsp; Software Engineer at [Metricstream](https://www.metricstream.com) <br/><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; I love writing JavaScript, and building fun experiments on type-level<br/><br/>
+ 📄 &emsp; Checkout my [resume](https://shubham-shukla.vercel.app/files/shubham-cv-2024.pdf)<br/><br/>
  📧 &emsp; Reach me anytime: shukla111shubh@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/shubh-shukla/shubh-shukla/issues)
 
@@ -108,3 +109,17 @@
 
 
 ![Shubham Shukla's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubh-shukla&custom_title=Shubham%20Shukla's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in India 🇮🇳</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="./assets/Bottom.svg" alt="Github Stats" />
+</p>
