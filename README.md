@@ -40,7 +40,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
- 💼 &emsp; Software Engineer at [Metricstream](https://www.metricstream.com) <br/><br/>
+ 💼 &emsp; Senior Software Engineer at [Metricstream](https://www.metricstream.com) <br/><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; I love writing JavaScript, and building fun experiments on type-level<br/><br/>
  📄 &emsp; Checkout my [resume](https://shubham-shukla.vercel.app/files/shubham-cv-2024.pdf)<br/><br/>
