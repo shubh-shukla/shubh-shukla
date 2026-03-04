@@ -9,7 +9,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Full Stack Web/Mobile developer from <b>Uttarakhand, India</b> 🇮🇳 」
+    「 I am a Frontend-heavy Full Stack Web/Mobile developer from <b>India</b> 🇮🇳 」
     <br>
     <br>
   </samp>
