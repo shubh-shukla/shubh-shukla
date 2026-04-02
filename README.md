@@ -43,7 +43,8 @@
  💼 &emsp; Software Engineer 2 at [ACV Auctions](https://www.acvauctions.com/) <br/><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; I love writing JavaScript, and building fun experiments on type-level<br/><br/>
- 📄 &emsp; Checkout my [resume](https://shubham-shukla.vercel.app/files/shubham-cv-2024.pdf)<br/><br/>
+ 📄 &emsp; Checkout my [profile](https://www.linkedin.com/in/shubham-shukla29/)<br/><br/>
+ <!-- 📄 &emsp; Checkout my [resume](https://shubham-shukla.vercel.app/files/shubham-cv-2024.pdf)<br/><br/> -->
  📧 &emsp; Reach me anytime: shukla111shubh@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/shubh-shukla/shubh-shukla/issues)
 
